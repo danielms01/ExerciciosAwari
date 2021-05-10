@@ -1,0 +1,2 @@
+# ExerciciosAwari
+Atividades Mentor
